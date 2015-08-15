@@ -3,7 +3,7 @@ Contributors: followlab
 Tags: likes, reseller, facebook, instagram, followlab
 Requires at least: 3.0.1
 Tested up to: 4.2
-Stable tag: 0.1
+Stable tag: 0.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,7 +15,7 @@ The [FollowLab](https://followlab.com/ "FollowLab") plugin provides an easy and 
 
 This plugin automatically provides pricing tables to showcase all the FollowLab plans with optional filtering. Additionally, through our system, we automatically fulfill all orders, providing an entirely hands off approach by both you and your customers.
 
-Simply fill our the settings section of the plugin with the required Public Key, Private Key, and Return URL and post the shortcodes to get starts.
+Simply fill our the settings section of the plugin with the required Public Key, Private Key, and Return URL and post the shortcodes to get started.
 
 == Installation ==
 
@@ -25,6 +25,6 @@ Simply fill our the settings section of the plugin with the required Public Key,
 4. Fill the Public Key, Private Key, and Return URL sections of the plugin settings.
 
 == Changelog ==
-
+= 0.1.1 =Updated description and version change.
 = 0.1 =
 Release.

@@ -3,7 +3,7 @@
  * Plugin Name: FollowLab
  * Plugin URI: https://followlab.com/
  * Description: Integration with the FollowLab Social Media API.
- * Version: 0.1
+ * Version: 0.1.1
  * Author: FollowLab
  * Author URI: https://followlab.com/
  */
